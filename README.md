@@ -1,5 +1,5 @@
 # Rock Paper Scissor Game
-Built a React and Tailwind CSS project for a dynamic Rock-Paper-Scissors game. Expanded gameplay with lizard and Spock choices. Implemented responsive design for optimal user experience. Enjoy an engaging twist on the classic game with additional strategic options.
+This project is a dynamic and visually appealing implementation of the classic Rock, Paper, Scissors game, developed using React, React Router DOM, and TailwindCSS. The application features a captivating loading page designed with TailwindCSS, ensuring a smooth transition into the user interface. React Router DOM is utilized to seamlessly navigate between different game modes, providing users with a well-organized and intuitive experience. Within the game modes, React's state management keeps track of user selections, bot choices, game results, and the overall score, creating a responsive and engaging interface. TailwindCSS further enhances the visual aesthetics of the application, employing a utility-first approach for efficient styling. This project demonstrates the synergy between React, React Router DOM, and TailwindCSS, resulting in an interactive and stylish Rock, Paper, Scissors game that offers users an enjoyable and modern gaming experience.
 
 ![image](https://github.com/Abiekatkam/rock-paper-scissor-game/assets/101975840/66f647a1-69c0-46ea-915f-d4c9373b72dc)
 
